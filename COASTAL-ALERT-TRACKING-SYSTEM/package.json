@@ -1,0 +1,15 @@
+{
+	"dependencies": {
+		"d3": "^7.9.0",
+		"@types/d3": "^7.4.3",
+		"three": "^0.179.1",
+		"@types/three": "^0.179.0",
+		"@tensorflow/tfjs": "^4.22.0",
+		"recharts": "^3.1.2",
+		"lucide-react": "^0.542.0",
+		"date-fns": "^4.1.0",
+		"ws": "^8.18.3",
+		"@types/ws": "^8.18.1",
+		"socket.io-client": "^4.8.1"
+	}
+}
